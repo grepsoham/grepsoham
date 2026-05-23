@@ -1,11 +1,14 @@
-## `$ grep -r "soham" ~/`
+## Hello, I'm Soham! 👋
 
-**Staff Engineer at Broadcom** · San Francisco · making peace with AI agents.
+Making peace with AI agents — one impatient nudge at a time.
 
-These days I'm orbiting agent runtimes — tinkering with [Claude Code](https://claude.com/claude-code), poking at [OpenClaw](https://openclaw.ai), and impatiently asking agents to be patient.
-
-**Off-keyboard:** 🏌️ golf (badly) · 🐈 cat (getting-scratched) · 🛠️ side projects (perpetually 80% done)
+- 💼 Staff Engineer at **Broadcom**
+- 🤖 Curious about **AI agents** — what they think they're doing, and how to keep an eye on it
+- 🛠️ Tinkering with [Claude Code](https://claude.com/claude-code) and [OpenClaw](https://openclaw.ai)
+- 🌉 Based in **San Francisco**
 
 ---
 
-📫  `grepsoham@gmail.com`
+**Off-keyboard:** 🏌️ golf (badly) · 🐈 cat (getting-scratched) · 🛠️ side projects (perpetually 80% done)
+
+📫 `grepsoham@gmail.com`
